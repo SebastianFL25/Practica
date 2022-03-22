@@ -5,3 +5,11 @@ body
     font-family: Arial;
     color: blue;
 }
+
+#footer{
+    background-color: #777;
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
+
+}
